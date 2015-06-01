@@ -1,0 +1,4 @@
+PWD C:/Users/Jenner/Documents/GitHub/MediaPost
+INPUT C:/Users/Jenner/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT C:/Users/Jenner/Documents/GitHub/MediaPost/MediaWebsite.py
+OUTPUT C:/Users/Jenner/Documents/GitHub/MediaPost/Output/MediaWebsite.log
